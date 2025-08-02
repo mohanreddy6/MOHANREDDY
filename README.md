@@ -1,6 +1,6 @@
-# Hi, I'm Mohan Reddy 👋
+# Hi, I'm Mohan Reddy 
 
-🚀 **GenAI & AI Data Analyst | Machine Learning Engineer | Cloud AI Solutions Developer**
+**GenAI & AI Data Analyst | Machine Learning Engineer | Cloud AI Solutions Developer**
 
 I am a results-driven AI & Data Analyst with 4+ years of experience designing, deploying, and optimizing **LLM-powered, NLP, OCR, computer vision, and time-series forecasting** solutions. I specialize in integrating **GPT, BERT, XLNet, LangChain, FAISS, and ChromaDB** into enterprise workflows to enhance automation, scalability, and decision-making.  
 
@@ -8,7 +8,7 @@ AWS Certified in Machine Learning – Specialty, I have hands-on expertise in **
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 - **Programming & Scripting:** Python, R, SQL, Shell Scripting (Bash), VBA  
 - **Data Engineering & ETL:** Pandas, NumPy, SQL Procedures, TFX, Informatica PowerCenter  
 - **Machine Learning & DL:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, MxNet, BERT, XLNet, GluonTS, ARIMA, SARIMAX, FBProphet  
@@ -20,7 +20,7 @@ AWS Certified in Machine Learning – Specialty, I have hands-on expertise in **
 
 ---
 
-## 📂 Experience Highlights
+## Experience Highlights
 
 ### **AI/Data Science Consultant – DataKind** *(2025 – Present)*
 - Built **OCR + NLP pipelines** with Tesseract and BERT for automated receipt processing.  
@@ -41,7 +41,7 @@ AWS Certified in Machine Learning – Specialty, I have hands-on expertise in **
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - **[Intelligent Document Processing Pipeline](#)** – LLM + OCR + LangChain-based vendor metadata extraction from noisy receipts.  
 - **[Currency Forecasting](#)** – Deep learning + statistical models for short-term currency movements.  
 - **[Automated Data Validation](#)** – SQL + Bash pipeline for QA in system migrations.  
@@ -49,6 +49,6 @@ AWS Certified in Machine Learning – Specialty, I have hands-on expertise in **
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - **LinkedIn:** [linkedin.com/in/mohan-reddy-8930951bb](https://linkedin.com/in/mohan-reddy-8930951bb)  
 - **Email:** mohanreddyds6@gmail.com
